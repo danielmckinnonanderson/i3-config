@@ -201,7 +201,7 @@ gaps outer 4px
 
 # Custom border colors
 # class                 border  bkgrnd  text    indicator child_border
-client.focused          #65C51F #2F942C #000000 #ffffff   #65C51F
+client.focused          #45a15b #396444 #ffffff #d0f614   #45a15b
 
 # Run this since for some reason it is never set on startup by default?
 exec_always feh --bg-fill ~/.background-image
